@@ -18,8 +18,10 @@ public class Ejemplo01 {
         // Ejemplo 
         String nombreEstudiante;
         nombreEstudiante = "René Elizalde";
+        // Es una variable la cual ya tiene dado un valor
         System.out.println(nombreEstudiante);
         System.out.println("René Elizalde");
+        // Es una cadena a la que se le da un dato
         nombreEstudiante = "Felipe Elizalde";
         System.out.println(nombreEstudiante);
     }
